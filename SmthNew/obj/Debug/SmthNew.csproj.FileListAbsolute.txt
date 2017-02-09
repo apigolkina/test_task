@@ -1,0 +1,12 @@
+C:\grep\SmthNew\SmthNew\bin\SmthNew.dll.config
+C:\grep\SmthNew\SmthNew\bin\SmthNew.dll
+C:\grep\SmthNew\SmthNew\bin\SmthNew.pdb
+C:\grep\SmthNew\SmthNew\obj\Debug\SmthNew.csprojResolveAssemblyReference.cache
+C:\grep\SmthNew\SmthNew\obj\Debug\SmthNew.dll
+C:\grep\SmthNew\SmthNew\obj\Debug\SmthNew.pdb
+C:\Users\Anchous\Desktop\SmthNew\SmthNew\bin\SmthNew.dll.config
+C:\Users\Anchous\Desktop\SmthNew\SmthNew\bin\SmthNew.dll
+C:\Users\Anchous\Desktop\SmthNew\SmthNew\bin\SmthNew.pdb
+C:\Users\Anchous\Desktop\SmthNew\SmthNew\obj\Debug\SmthNew.csprojResolveAssemblyReference.cache
+C:\Users\Anchous\Desktop\SmthNew\SmthNew\obj\Debug\SmthNew.dll
+C:\Users\Anchous\Desktop\SmthNew\SmthNew\obj\Debug\SmthNew.pdb
